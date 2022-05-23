@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Swarm (Mod)</e>
+    <e id="2">Swarm (Mod)</e>
+    <e id="3">Mothership Core</e>
+    <e id="4">Hellbat</e>
+    <e id="5">Oracle</e>
+    <e id="6">Protoss Snake Segment Demo</e>
+    <e id="7">Swarm Host</e>
+    <e id="8">Tempest</e>
+    <e id="9">Viper</e>
+    <e id="10">Nydus Destroyer</e>
+    <e id="11">Creep Tower</e>
+    <e id="12">Widow Mine</e>
+    <e id="13">Anion Pulse Crystals</e>
+    <e id="14">Enduring Locusts</e>
+    <e id="15">Combat Drugs</e>
+    <e id="16">Anion Pulse-Crystals</e>
+    <e id="17">Tunneling Jaws</e>
+    <e id="18">Increased Range</e>
+    <e id="19">Transformation Servos</e>
+    <e id="20">Evolve Burrow Charge</e>
+    <e id="21">Reaper Jump</e>
+    <e id="22">Bosonic Core</e>
+    <e id="23">250mm Strike Cannons</e>
+    <e id="24">Neural Parasite</e>
+    <e id="25">Quantum Reactor</e>
+    <e id="26">Muscular Augments</e>
+    <e id="27">Restore Shields</e>
+    <e id="28">Basic Instructions</e>
+    <e id="29">How To Win</e>
+    <e id="30">Advanced Instructions</e>
+</Locale>

@@ -556,7 +556,7 @@ class Replay(Resource):
                 if team.result == "Win":
                     self.winner = team
             else:
-                self.logger.warn(
+                self.logger.warning(
                     "Conflicting results for Team {0}: {1}".format(team.number, results)
                 )
                 team.result = "Unknown"
@@ -1336,7 +1336,7 @@ class GameSummary(Resource):
                                 )
                             )
             elif stat_id != 83886080:  # We know this one is always bad.
-                self.logger.warn("Untranslatable key = {0}".format(stat_id))
+                self.logger.warning("Untranslatable key = {0}".format(stat_id))
 
         # Once we've compiled all the build commands we need to make
         # sure they are properly sorted for presentation.

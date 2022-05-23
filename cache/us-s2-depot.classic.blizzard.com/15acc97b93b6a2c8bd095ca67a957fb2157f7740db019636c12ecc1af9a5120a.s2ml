@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">MLG Metropolis</e>
+    <e id="2">Map used on the Major League Gaming Pro Circuit. For more information, visit www.majorleaguegaming.com&lt;br&gt;&lt;br&gt;Created by LSPrime.</e>
+    <e id="3">Castanar (Installation)</e>
+    <e id="4">Melee</e>
+    <e id="5">Standard melee game against other players.</e>
+    <e id="6">1v1</e>
+    <e id="7">Two players fight to the death.</e>
+</Locale>

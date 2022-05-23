@@ -68,7 +68,7 @@ class Color(object):
     def __init__(self, name=None, r=0, g=0, b=0, a=255):
         if name:
             if name not in COLOR_CODES_INV:
-                self.logger.warn("Invalid color name: " + name)
+                self.logger.warnimg("Invalid color name: " + name)
             hexstr = COLOR_CODES_INV.get(name, "000000")
             self.r = int(hexstr[0:2], 16)
             self.g = int(hexstr[2:4], 16)
@@ -81,7 +81,7 @@ class Color(object):
             self.b = b
             self.a = a
             if self.hex not in COLOR_CODES:
-                self.logger.warn("Invalid color hex value: " + self.hex)
+                self.logger.warning("Invalid color hex value: " + self.hex)
             self.name = COLOR_CODES.get(self.hex, self.hex)
 
     @property
